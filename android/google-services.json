@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "127124453580",
+    "project_id": "testauth-vexef",
+    "storage_bucket": "testauth-vexef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127124453580:android:1d047fc104806f359d6a69",
+        "android_client_info": {
+          "package_name": "com.example.testauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127124453580-kgeckjncbd1k4fnv0p07c93pfl16btl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ZLrtWExi_dXSaQwZXHUi6z-EpirsDYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127124453580-kgeckjncbd1k4fnv0p07c93pfl16btl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127124453580-165tn2e47c0mpnkcu78g0ovare69mkgn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testauth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
